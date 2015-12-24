@@ -1,0 +1,10 @@
+@charset "utf-8";
+.section { text-align: center; font: 50px "Microsoft Yahei"; color: #fff; background: url(images/wp1.jpg) 50%;}
+.section1 h3{ position: relative; top:-120%}
+.section1 p{ display: none}
+.section2 .TabBox { position: relative; left: -120%;}
+.section3 h3{ display: none;}
+.section3 .chart_main{
+    position: relative; bottom: -120%;
+}
+.TabBox{height:500px;overflow-y:auto;overflow-x:hidden; width:880px; margin:0 auto; font-size:12px;}
